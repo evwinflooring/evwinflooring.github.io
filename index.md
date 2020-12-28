@@ -2,6 +2,7 @@
 layout: home
 published: true
 ---
+![EvWin Flooring Hero]({{site.baseurl}}/header003.jpg)
 
 We are excited to announce our new website. "EvWin Flooring"
 
