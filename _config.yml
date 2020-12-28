@@ -5,10 +5,10 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://evwinflooring.com" # the base hostname & protocol for your site, e.g. http://example.com
 include:
- - _posts
+ - assets
+theme: minima
 defaults:
  - scope:
     path: "assets"
   values:
     image: true
-theme: minima
