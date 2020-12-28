@@ -27,7 +27,7 @@ url: "https://evwinflooring.com" # the base hostname & protocol for your site, e
 
 defaults:
   - scope:
-      path: "assets"
+      path: "_posts"
     values:
       image: true
 
