@@ -2,6 +2,11 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-## About EvWin Flooring
+## Everett
+
+![IMG_3550.PNG]({{site.baseurl}}/IMG_3550.PNG)
+
+Started EvWin Flooring. Ever since we are happy to provide the greatest service.
