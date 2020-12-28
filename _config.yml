@@ -8,7 +8,7 @@ include:
  - assets
 theme: minima
 defaults:
- - scope:
-    path: "assets"
-  values:
-    image: true
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
