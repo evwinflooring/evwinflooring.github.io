@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  "Happy Customer"
-date:   2020-12-28 16:25:48 -0600
+title: Happy Customer
+date: '2020-12-28 16:25:48 -0600'
 categories: update
+published: true
 ---
 
 ## A New Happy Customer
 
-![IMG_3550.PNG]({{site.baseurl}}/_posts/IMG_3550.PNG)
+![ewrt.jpeg]({{site.baseurl}}/_posts/ewrt.jpeg)
 
