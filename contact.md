@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-### Evwinflooring
+### EvWin Flooring
 - (204)999-8155
 - 470 Tweed Ave.
 - Winnipeg
