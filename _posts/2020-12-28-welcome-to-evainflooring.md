@@ -8,3 +8,5 @@ published: true
 Thank you for visiting EvWin Flooring.
 
 ![IMG_3233.JPG]({{site.baseurl}}/assets/IMG_3233.JPG)
+![IMG_3747.JPG]({{site.baseurl}}/images/IMG_3747.JPG)
+
