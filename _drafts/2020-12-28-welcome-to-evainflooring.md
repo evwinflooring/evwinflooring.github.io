@@ -7,11 +7,10 @@ published: true
 
 Thank you for visiting EvWin Flooring.!
 
+![IMG_3490.JPG]({{site.baseurl}}/_posts/IMG_3490.JPG)
 
+![IMG_3492.JPG]({{site.baseurl}}/_posts/IMG_3492.JPG)
 
-!_posts/IMG_3490.JPG]({{site.baseurl}}/thadman/IMG_3490.JPG)
-
-![_posts/IMG_3492.JPG]({{site.baseurl}}/thadman2/IMG_3492.JPG)
 
 
 
