@@ -9,9 +9,9 @@ Thank you for visiting EvWin Flooring.!
 
 
 
-![IMG_3490.JPG]({{site.baseurl}}/thadman/IMG_3490.JPG)
+!_posts/IMG_3490.JPG]({{site.baseurl}}/thadman/IMG_3490.JPG)
 
-![IMG_3492.JPG]({{site.baseurl}}/thadman2/IMG_3492.JPG)
+![_posts/IMG_3492.JPG]({{site.baseurl}}/thadman2/IMG_3492.JPG)
 
 
 
@@ -28,4 +28,3 @@ Thank you for visiting EvWin Flooring.!
 ![bdstair.PNG]({{site.baseurl}}/bdstair.PNG)
 
 ![cleanup.JPG]({{site.baseurl}}/cleanup.JPG)
-
