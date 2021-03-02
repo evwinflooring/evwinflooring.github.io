@@ -7,21 +7,21 @@ published: true
 
 Thank you for visiting EvWin Flooring.
 
+![thadman2.JPG]({{site.baseurl}}/thadman2.JPG)
 
-![IMG_3490.JPG]({{site.baseurl}}/_posts/IMG_3490.JPG)
+![thadman.JPG]({{site.baseurl}}/thadman.JPG)
 
-![IMG_3492.JPG]({{site.baseurl}}/_posts/IMG_3492.JPG)
+![3rd flr.JPG]({{site.baseurl}}/3rd flr.JPG)
 
-![IMG_3490.JPG]({{site.baseurl}}/image/IMG_3490.JPG)
+![mystair.JPG]({{site.baseurl}}/mystair.JPG)
 
+![shag.JPG]({{site.baseurl}}/shag.JPG)
 
-![IMG_3233.JPG]({{site.baseurl}}/assets/IMG_3233.JPG)
+![bdroom.JPG]({{site.baseurl}}/bdroom.JPG)
 
-![IMG_3747.JPG]({{site.baseurl}}/images/IMG_3747.JPG)
+![bedroom.JPG]({{site.baseurl}}/bedroom.JPG)
 
+![bdstair.PNG]({{site.baseurl}}/bdstair.PNG)
 
-![IMG_3755.JPG]({{site.baseurl}}/_posts/IMG_3755.JPG)
+![cleanup.JPG]({{site.baseurl}}/cleanup.JPG)
 
-![IMG_3756.JPG]({{site.baseurl}}/_posts/IMG_3756.JPG)
-
-![IMG_3770.PNG]({{site.baseurl}}/_posts/IMG_3770.PNG)
