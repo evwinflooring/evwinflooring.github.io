@@ -7,9 +7,9 @@ published: true
 
 Thank you for visiting EvWin Flooring.
 
-![thadman2.JPG]({{site.baseurl}}/thadman2.JPG)
+![thadman2.JPG]
 
-![thadman.JPG]({{site.baseurl}}/thadman.JPG)
+![thadman.JPG]
 
 ![3rd flr.JPG]({{site.baseurl}}/3rd flr.JPG)
 
