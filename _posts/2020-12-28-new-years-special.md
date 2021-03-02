@@ -1,11 +1,10 @@
 ---
 published: true
 ---
-## New Years Special
 
-Great new deals on new installations.
 
-Check out our pricing to see more details.
+Call for a quote....great deals 
 
-![year2020yay.png]({{site.baseurl}}/images/year2020yay.png)
 
+
+![year2021yay.png]({{site.baseurl}}/images/year2020yay.png)
