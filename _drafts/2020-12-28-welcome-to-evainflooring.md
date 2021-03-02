@@ -5,11 +5,15 @@ date: '2020-12-28 14:25:48 -0600'
 published: true
 ---
 
-Thank you for visiting EvWin Flooring.
+Thank you for visiting EvWin Flooring.!
 
-![thadman2.JPG]
 
-![thadman.JPG]
+
+![IMG_3490.JPG]({{site.baseurl}}/thadman/IMG_3490.JPG)
+
+![IMG_3492.JPG]({{site.baseurl}}/thadman2/IMG_3492.JPG)
+
+
 
 ![3rd flr.JPG]({{site.baseurl}}/3rd flr.JPG)
 
