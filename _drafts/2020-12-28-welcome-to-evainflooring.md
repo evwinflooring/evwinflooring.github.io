@@ -17,13 +17,6 @@ Thank you for visiting EvWin Flooring.!
 
 
 
-![3rd flr.JPG]({{site.baseurl}}/3rd flr.JPG)
-
-![mystair.JPG]({{site.baseurl}}/mystair.JPG)
-
-![shag.JPG]({{site.baseurl}}/shag.JPG)
-
-![bdroom.JPG]({{site.baseurl}}/bdroom.JPG)
 
 ![bedroom.JPG]({{site.baseurl}}/bedroom.JPG)
 
