@@ -5,20 +5,25 @@ date: '2020-12-28 14:25:48 -0600'
 published: true
 ---
 
-**## Thank you for visiting EvWin Flooring.###
-
+Thank you for visiting EvWin Flooring.!
 
 ![IMG_3490.JPG]({{site.baseurl}}/_posts/IMG_3490.JPG)
 
 ![IMG_3492.JPG]({{site.baseurl}}/_posts/IMG_3492.JPG)
 
-![IMG_3233.JPG]({{site.baseurl}}/assets/IMG_3233.JPG)
 
-![IMG_3747.JPG]({{site.baseurl}}/images/IMG_3747.JPG)
 
 
 ![IMG_3755.JPG]({{site.baseurl}}/_posts/IMG_3755.JPG)
 
 ![IMG_3756.JPG]({{site.baseurl}}/_posts/IMG_3756.JPG)
 
-![IMG_3770.PNG]({{site.baseurl}}/_posts/IMG_3770.PNG)
+![IMG_3770.JPG]({{site.baseurl}}/_posts/IMG_3770.JPG)
+
+![bdroom.JPG]({{site.baseurl}}/bdroom.JPG)
+
+![bedroom.JPG]({{site.baseurl}}/bedroom.JPG)
+
+![bdstair.PNG]({{site.baseurl}}/bdstair.PNG)
+
+![cleanup.JPG]({{site.baseurl}}/cleanup.JPG)
